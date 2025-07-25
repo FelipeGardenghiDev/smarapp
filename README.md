@@ -1,1 +1,1 @@
-# smarapi
+# smarapp
